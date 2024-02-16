@@ -1,6 +1,8 @@
 # mdict-cli
 
-### Dead Simple Interface for Definition / Synonym / Antonyms / Usage with Zero-dependency
+#### 🧊 Dead Simple Interface written in Bash
+### ⭐ Definition / Synonym / Antonyms / Usage
+#### 🍉 Zero-dependency
 
 Get Started
 -----------
