@@ -3,8 +3,8 @@ MDict-CLI
 
 #### Dead Simple Interface for Definition / Synonym / Antonyms / Usage with Zero-dependency
 
-Installation
-------------
+Get Started
+-----------
 
 ```bash
 # Clone the repo
@@ -24,7 +24,6 @@ ln -sfv mdict /usr/bin/mdict
 # Usage help
 mdict --help
 ```
-
 ```md
 mdict - dead simple CLI for Definition / Synonym / Antonyms / Usage
 
