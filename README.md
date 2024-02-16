@@ -4,6 +4,8 @@
 ### ⭐ Definition / Synonym / Antonyms / Usage
 #### 🍉 Zero-dependency
 
+---
+
 Get Started
 -----------
 
