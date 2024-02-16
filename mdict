@@ -1,0 +1,8 @@
+#!/bin/bash
+
+CR='\e[0m'
+for i in {0..10}; do declare -g "C${i}"="\e[1;3${i}m" ; done
+function O { while [ "$1" ]; do printf "${C1}%7s ${C2}%s${CR}\n" "$1" "${!1}"; shift; done; }
+
+echo "${C3}hello ${C4}there"
+echo BYE
