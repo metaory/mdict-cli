@@ -1,7 +1,6 @@
-MDict-CLI
-==========
+# mdict-cli
 
-#### Dead Simple Interface for Definition / Synonym / Antonyms / Usage with Zero-dependency
+### Dead Simple Interface for Definition / Synonym / Antonyms / Usage with Zero-dependency
 
 Get Started
 -----------
